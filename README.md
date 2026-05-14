@@ -1,33 +1,39 @@
 <div align="center">
 
-# 💫 Hello, I'm S MOHAMMED SUHAIL
+# 👋 Hi, I'm [Your Name]
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Laravel+Expert;Python+%2B+SQL+Architect" alt="Typing SVG" />
-
----
-
-### 💻 Tech Stack
-<!-- This uses the Skill-Icons API which renders perfectly round circles -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,laravel,py,mysql,figma&theme=dark" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=FULL+STACK+DEVELOPER;MERN+STACK+EXPERT;LARAVEL+ARCHITECT;PYTHON+DEVELOPER" alt="Typing SVG" />
 
 ---
 
-### 📊 GitHub Analysis
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D1FF&text_color=ffffff" width="42%" />
-</p>
+### 🛠️ Ecosystem
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,laravel,py,mysql,figma&perline=8" />
+</a>
+
+<br/>
+<br/>
 
 ---
 
-### 🤝 Connect with Me
+### 📈 Stats at a Glance
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&bg_color=00000000)
+
+---
+
+### 🔗 Let's Build Something
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
+
+<!-- A subtle divider to finish the page -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
